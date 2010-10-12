@@ -1,0 +1,142 @@
+/** General Stylesheet for image uploader 
+    By Eudis Duran **/
+html, body {
+	width:100%;
+	height: 100%;
+	background: rgb(245,245,255);
+	font-family: Georgia;
+	font-size:12px;
+	
+
+	margin: 0;
+	padding: 0;
+}
+
+#img {
+	
+}
+
+header {
+	width: 100%;
+	
+}
+.container {
+	min-height: 100%;
+	position: relative;
+	width:100%;
+	
+}
+nav {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	float: left;
+	font-family: arial;
+	font-size: 12px;
+	
+}
+
+.nav_btn {
+	color: rgb(50,50,50);	
+	text-decoration: none;
+}
+
+
+.nav_btn a:visited {
+	color: gray;
+}
+
+.nav_btn a:link {
+	color: rgb(100,100,255);
+}
+
+.nav_hover a:hover {
+	font-size: 16px;
+}
+
+#nav_list {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	border: 2px solid rgb(200, 200, 255);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-bottom:1%;
+	
+}
+
+#about_box {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	border: 1px solid rgb(200, 200, 255);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-bottom:1%;
+	margin-top:1%;
+}
+
+#content {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+
+	border: 2px solid rgb(200, 200, 255);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+#title {
+	border: 2px solid rgb(200,200,255);
+	padding-bottom: 1%;
+	width: 50%;
+	margin: auto;
+	margin-bottom: 2%;
+	text-align:center;
+    font-size: 48px; 
+    font-family: 'cowboy', 'arial';
+	background: rgb(200, 200, 225);
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+
+#textfield {
+	border: 1px solid rgb(100,100,100);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#upload_btn {
+	
+}
+
+#fileinput {
+	text-align: center;
+	margin: auto;
+	
+	
+}
+
+footer {
+	text-align: center;
+
+	width: 100%;
+	font-family: arial;
+	font-size: 10px;
+	position: absolute;
+	height: 60px;
+	bottom: 0;
+
+}
+
+@font-face {
+	font-family: "cowboy";
+	src: url('../data/BleedingCowboys.ttf') format('truetype');
+}
