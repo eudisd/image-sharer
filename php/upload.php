@@ -6,7 +6,7 @@
 	
 	$base = '';  // You must set your server's absolute path to the project's directory.
 
-	$link_base = 'http://www.eudisduran.com/';
+	$link_base = '/';
 
 	$link = $link_base . 'img/data/' . basename($_FILES['upload']['name']);
 

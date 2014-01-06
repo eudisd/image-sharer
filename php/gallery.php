@@ -5,7 +5,7 @@
 		<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
 		<link rel='stylesheet' href='../css/general.css' type='text/css' />
 		<link rel='shortcut icon' 
-href='http://eudisduran.com/site/data/avatar.png' />
+href='/site/data/avatar.png' />
 		<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
 		<script src='../js/jq.js' type='text/javascript'></script>
 		<script src='../js/script1.js' type='text/javascript'></script>
