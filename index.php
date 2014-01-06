@@ -61,7 +61,7 @@ id='title'>  Image Egami   </h3></a>
 		</div>
 
 		<footer>
-			Copyright &copy; Eudis Duran, 2010
+            Copyright &copy; Eudis Duran, <?php echo date("Y"); ?>
 		</footer>
      </div>
 	</body>
