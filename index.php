@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
 	<head>
-		<title> Image Egami  </title>
+		<title> Image Share  </title>
 		<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
 		<link rel='stylesheet' href='css/general.css' type='text/css' />
 		<link rel='shortcut icon' 
-href='http://eudisduran.com/site/data/avatar.png' />
-		<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
+href='/site/data/avatar.png' />
+		<script src='//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
 		<script src='js/jq.js' type='text/javascript'></script>
 		<script src='js/script1.js' type='text/javascript'></script>
 		<script type="text/javascript"> 
@@ -37,7 +37,7 @@ s);
 		<?php include_once('php/constants.php'); ?>
 		<header>
 			<a style='text-decoration: none; color: black;' href= <?php echo "${BASE}"; ?> <h3 
-id='title'>  Image Egami   </h3></a>
+id='title'>  Image Share   </h3></a>
 			<center> <p> version: <?php echo $VERSION; ?> </p> </center>
 		</header>
 		<nav>

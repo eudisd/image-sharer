@@ -1,13 +1,11 @@
-/** General Stylesheet for image uploader 
-    By Eudis Duran **/
+/** General Stylesheet for image uploader */
+
 html, body {
-	width:100%;
+	width: 100%;
 	height: 100%;
-	background: rgb(245,245,255);
+	background: rgb(255, 255, 255);
 	font-family: Georgia;
 	font-size:12px;
-	
-
 	margin: 0;
 	padding: 0;
 }
@@ -18,7 +16,7 @@ html, body {
 
 header {
 	width: 100%;
-	
+	text-align: center;
 }
 .container {
 	min-height: 100%;
